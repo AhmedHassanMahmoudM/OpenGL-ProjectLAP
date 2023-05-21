@@ -1,0 +1,46 @@
+﻿  Source.cpp
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1260,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1261,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1282,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1286,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1288,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1289,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1302,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1308,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1315,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1321,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1329,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1344,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1350,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1357,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1363,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1371,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1385,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1391,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1398,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1404,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1412,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1434,59): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1458,31): warning C4305: '+=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1459,36): warning C4305: '-=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1461,31): warning C4305: '+=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1462,36): warning C4305: '-=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1464,31): warning C4305: '+=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1465,36): warning C4305: '-=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1491,41): warning C4305: '+=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1492,41): warning C4305: '-=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1493,41): warning C4305: '-=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1494,41): warning C4305: '+=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1496,41): warning C4305: '+=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1497,41): warning C4305: '-=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1498,41): warning C4305: '-=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1499,41): warning C4305: '+=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1505,38): warning C4305: '+=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1506,43): warning C4305: '-=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1507,40): warning C4305: '+=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1508,42): warning C4305: '-=': truncation from 'double' to 'float'
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1518,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1518,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1519,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\test1_opengl\Source.cpp(1519,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  test1_opengl.vcxproj -> H:\VISUAL STIDIO CODE\PROJECTS\test1_opengl\x64\Debug\test1_opengl.exe
